@@ -14,7 +14,7 @@
 
 1.  下载并解压`chaoxing-helper.zip`
 
-2. 在 Chrome 地址栏输入 `chrome://extensions/`。
+2. 使用谷歌浏览器，在 Chrome 地址栏输入 `chrome://extensions/`。
 
 3. 打开右上角的“开发者模式”。
 

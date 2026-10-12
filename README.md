@@ -20,11 +20,11 @@
 
 4. 点击“加载未打包的扩展程序”，选择**chaoxing-helper** 文件夹。
 
-   ![image-20261012112239671](https://kuabin24678.oss-cn-guangzhou.aliyuncs.com/typoraImage/image-20261012112239671.png)
+   ![image-20261012112239671](ImageSet/image-20261012112239671.png)
 
 5. 打开学习通，进入创新创业课程学习页面，初次使用可能需要刷新页面，之后点击开始即可。
 
-   ![image-20261012112518667](https://kuabin24678.oss-cn-guangzhou.aliyuncs.com/typoraImage/image-20261012112518667.png)
+   ![image-20261012112518667](ImageSet/image-20261012112518667.png)
 
 ## 功能
 

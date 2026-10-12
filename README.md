@@ -12,7 +12,7 @@
 
 ## 安装
 
-1.  解压`chaoxing-helper.zip`
+1.  下载并解压`chaoxing-helper.zip`
 
 2. 在 Chrome 地址栏输入 `chrome://extensions/`。
 
